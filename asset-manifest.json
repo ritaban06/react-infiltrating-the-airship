@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-infiltrating-the-airship/static/css/main.799e85e5.css",
+    "main.js": "/react-infiltrating-the-airship/static/js/main.5080ccf1.js",
+    "static/js/453.1be9dc1e.chunk.js": "/react-infiltrating-the-airship/static/js/453.1be9dc1e.chunk.js",
+    "index.html": "/react-infiltrating-the-airship/index.html",
+    "main.799e85e5.css.map": "/react-infiltrating-the-airship/static/css/main.799e85e5.css.map",
+    "main.5080ccf1.js.map": "/react-infiltrating-the-airship/static/js/main.5080ccf1.js.map",
+    "453.1be9dc1e.chunk.js.map": "/react-infiltrating-the-airship/static/js/453.1be9dc1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.5080ccf1.js"
+  ]
+}
